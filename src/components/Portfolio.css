@@ -1,0 +1,27 @@
+/* Portfolio.css */
+
+/* .gradient-background {
+    background: linear-gradient(to bottom right, #1c164b, #7f8873);
+    padding: 0px;
+  }
+   */
+  .card {
+    border: 1px solid #ddd; /* Add a border for better visibility */
+  }
+
+  
+  
+  @media (max-width: 768px) {
+    /* Adjust styling for medium screens */
+    .card {
+      margin-bottom: 20px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    /* Adjust styling for small screens */
+    .card {
+      margin-bottom: 30px;
+    }
+  }
+  
