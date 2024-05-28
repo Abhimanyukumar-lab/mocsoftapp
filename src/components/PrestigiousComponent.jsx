@@ -1,7 +1,7 @@
 // PrestigiousComponent.js
 import React from 'react';
 import './PrestigiousComponent.css';
-import biharPoliceNewLogo from '../assets/workimg/bihar-police-new-logo.png'; // Import the image
+import biharPoliceNewLogo from '../assets/workimg/buxar-police.jpg'; // Import the image
 
 const PrestigiousComponent = () => {
   const cardData = [
